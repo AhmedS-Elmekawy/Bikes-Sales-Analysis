@@ -1,4 +1,4 @@
-# Full-Project-in-Excel
+# Bikes Sales Analysis
 > Data Cleaning Process and Dashboard Creation in Excel ,In this project, we'll be analyzing a dataset and then communicate findings about it. we'll be using Microsoft Excel Spreadsheets
 
 ### The dataset contains 1027 records distrbuted in 13 columns 
